@@ -1,4 +1,9 @@
 var libraries = [
+    {
+    'url': 'https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.4/jquery.scrollify.min.js',
+    'label': 'scrollify',
+    'group': 'fancy stuff'
+  },
   {
     'url': 'https://code.jquery.com/jquery-git.js',
     'label': 'jQuery WIP (via git)',
